@@ -5,7 +5,7 @@ Colorful Text Formatting
 
 This code provides a utility for formatting text with different colors and styles in a terminal or console.
 
-![example](https://raw.githubusercontent.com/RoshanShrestha123/ez-cli-color/master/example.JPG?token=GHSAT0AAAAAACC4J22P7M75HYOZ34NR55GQZDJXHTQ)
+![example](https://raw.githubusercontent.com/RoshanShrestha123/ez-cli-color/master/example.JPG)
 
 ## Usage
 
