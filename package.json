@@ -1,0 +1,14 @@
+{
+  "name": "ez-cli-color",
+  "version": "1.1.2",
+  "description": "Set the colors for the text on the cli",
+  "main": "index.js",
+  "keywords": [
+    "ez",
+    "cli",
+    "color",
+    "cli-colors"
+  ],
+  "author": "Roshan Shrestha",
+  "license": "MIT"
+}
