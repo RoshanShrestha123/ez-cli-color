@@ -2,11 +2,13 @@
 
 This code provides a utility for formatting text with different colors and styles in a terminal or console.
 
-![example](example.JPG)
+
+![example](https://github.com/RoshanShrestha123/ez-cli-color/assets/31877486/873cc6bf-59f1-44b9-a6b2-60fb6de2e010)
 
 ## Usage
 
 1. Install the necessary dependencies:
+
 
    ```shell
    npm install ez-cli-color
