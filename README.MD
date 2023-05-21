@@ -1,14 +1,14 @@
-# Colorful Text Formatting
+# ez-cli-color 
+![made-with-sphinx-doc](https://img.shields.io/badge/version-1.1.3-brightgreen)
+Colorful Text Formatting
 
 This code provides a utility for formatting text with different colors and styles in a terminal or console.
 
-
-![example](https://github.com/RoshanShrestha123/ez-cli-color/assets/31877486/873cc6bf-59f1-44b9-a6b2-60fb6de2e010)
+![example](https://raw.githubusercontent.com/RoshanShrestha123/ez-cli-color/master/example.JPG?token=GHSAT0AAAAAACC4J22PSGF4TJ7MMJISDV6UZDJWYSA)
 
 ## Usage
 
 1. Install the necessary dependencies:
-
 
    ```shell
    npm install ez-cli-color
